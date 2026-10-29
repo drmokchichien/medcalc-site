@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drmokchichien.github.io/medcalc-site/sitemap.xml
